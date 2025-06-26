@@ -7,7 +7,7 @@ subtitle: PhD Student in Machine Learning and Public Policy at <a href='#'>Carne
 profile:
   align: left
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: 
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -24,6 +24,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am currently a second-year PhD Student in Machine Learning and Public Policy at Carnegie Mellon University. At a high-level, I am interested in developing methodologies that help policymakers make better decisions using data. More specifically, I am interested in causal machine learning and  improving machine learning methods for tabular data. 
+I am currently a second-year PhD Student in Machine Learning and Public Policy at Carnegie Mellon University. Broadly, I am interested in developing methodologies that help policymakers make better decisions using data. More specifically, I am interested in causal machine learning and  improving machine learning methods for tabular data. 
 
 Prior to CMU, I worked in the social sector for eight years, including over four working for non-profits in East Africa.  Many of my research interests are borne out of challenges I encountered while working with data to improve decision-making in industry. 

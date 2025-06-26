@@ -46,7 +46,7 @@ repo_trophies:
 
 navbar_fixed: true
 footer_fixed: false
-search_enabled: true
+search_enabled: false
 socials_in_search: true
 posts_in_search: true
 bib_search: true
@@ -189,6 +189,16 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - _news/announcement_*.md
+  - _pages/blog.md
+  - _pages/books.md
+  - _pages/cv.md 
+  - _pages/publications.md
+  - _pages/repositories.md 
+  - _pages/teaching.md
+  - _posts/
+  - _projects/?_project.md
+  - assets/jupyter/blog.ipynb
 keep_files:
   - CNAME
   - .nojekyll
