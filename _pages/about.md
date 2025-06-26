@@ -24,8 +24,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am currently a second-year PhD Student in Machine Learning and Public Policy at Carnegie Mellon University. At a high-level, I am interested in developing methodologies that help policymakers make better decisions using data. More specifically, I am interested in causal machine learning and  improving machine learning methods for tabular data. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Prior to CMU, I worked in the social sector for eight years, including over four working for non-profits in East Africa.  Many of my research interests are borne out of challenges I encountered while working with data to improve decision-making in industry. 
