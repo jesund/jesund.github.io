@@ -6,6 +6,7 @@ subtitle: PhD Student in Machine Learning and Public Policy at <a href='#'>Carne
 
 profile:
   align: left
+  image_size: 200
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: 
